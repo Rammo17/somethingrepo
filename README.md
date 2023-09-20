@@ -7,5 +7,3 @@ red
 green
 yellow
 
-
-
